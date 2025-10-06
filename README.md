@@ -37,13 +37,13 @@ A real-time edge detection viewer that captures camera frames, processes them us
 
 
 ### Key Features Demonstrated:
-- ✅ **Real-time Performance**: Achieving 21+ FPS on device
+- ✅ **Real-time Performance**: Achieving 50+ FPS on device
 - ✅ **Smooth Camera Integration**: Crystal clear live camera feed
 - ✅ **Toggle Functionality**: Seamless switching between processed/raw modes
 - ✅ **Professional UI**: Clean interface with status indicators
-- ✅ **Device Compatibility**: Working perfectly on OnePlus hardware
+- ✅ **Device Compatibility**: Working perfectly on Vivo hardware
 
-> **Device Info**: OnePlus CPH2381 | **Performance**: 21+ FPS | **Status**: Fully Functional ✅
+> **Device Info**: Vivo T3 Pro 5g | **Performance**: 50+ FPS | **Status**: Fully Functional ✅
 
 ## �📁 Project Structure
 
@@ -86,8 +86,8 @@ A real-time edge detection viewer that captures camera frames, processes them us
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/Bhargavk055/android-opencv-opengl-assessment.git
-cd android-opencv-opengl-assessment
+git clone https://github.com/PraveenKumar1910-lab/Android-OpenCV-OpenGL-Web-Intern.git
+cd Android-OpenCV-OpenGL-Web-Intern
 ```
 
 #### 2. Configure Android Environment
@@ -152,7 +152,7 @@ Camera Feed → TextureView → JNI Bridge → OpenCV C++ → Edge Detection →
 - **Performance Optimization**: Minimal GPU memory usage and efficient updates
 
 ## 📊 Performance Metrics
-- **Target FPS**: 15+ (✅ **ACHIEVED 21+ FPS** on OnePlus CPH2381)
+- **Target FPS**: 15+ (✅ **ACHIEVED 50+ FPS** on Vivo T3 Pro 5g)
 - **Processing Latency**: <50ms per frame
 - **Memory Usage**: Optimized for real-time processing
 - **GPU Utilization**: Efficient OpenGL ES 2.0 implementation
@@ -213,7 +213,7 @@ This project demonstrates a **fully functional** real-time edge detection applic
 - **OpenCV Integration**: ✅ Native C++ edge detection implementation  
 - **OpenGL Rendering**: ✅ Efficient texture-based display
 - **TypeScript Web Viewer**: ✅ Interactive demonstration interface
-- **Performance**: ✅ 21+ FPS achieved on physical device
+- **Performance**: ✅ 50+ FPS achieved on physical device
 - **Device Testing**: ✅ Successfully tested on OnePlus CPH2381
 
 #### 📱 **Live Demo Available:**
@@ -226,7 +226,7 @@ A complete end-to-end solution showcasing Android development, native C++ integr
 
 ---
 
-*Developed by: Bhargavk055 | Status: Complete*
+*Developed by: PraveenKumar R | Status: Complete*
 - Camera parameter controls (exposure, focus, ISO)
 - WebRTC streaming for remote debugging
 
